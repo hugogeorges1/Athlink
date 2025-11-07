@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/shop/page": "app/shop/page.js",
+  "/shop/success/page": "app/shop/success/page.js",
+  "/messages/page": "app/messages/page.js",
+  "/messages/[peerId]/page": "app/messages/[peerId]/page.js",
+  "/auth/sign-up/page": "app/auth/sign-up/page.js"
+}

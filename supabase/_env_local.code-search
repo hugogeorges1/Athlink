@@ -1,0 +1,15 @@
+# Query: .env.local
+# ContextLines: 1
+
+2 results - 2 files
+
+C:\Users\Georges\CascadeProjects\athlink\.gitignore:
+  4  .env
+  5: .env.local 
+  6  .DS_Store
+
+C:\Users\Georges\CascadeProjects\athlink\README.md:
+  18  - Copier `.env.example` vers `` et remplir les variables Supabase + Resend
+  19: 3. Lancer le serveur.env.local
+
+  20  ```bash
